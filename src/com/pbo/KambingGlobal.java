@@ -6,7 +6,6 @@ package com.pbo;
  * Nama : Agung Sepruloh
  * Kelas : PBO11K
  * NIM : 10118902
- * Deskripsi Program : Program ini berisi
  *
  */
 
